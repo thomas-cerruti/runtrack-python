@@ -5,4 +5,4 @@ i = 0
 # parcourir avec la boucle while
 while i < len(list): 
  print(list[i]) 
- i = i+1
+ i = i+2
