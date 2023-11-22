@@ -6,5 +6,5 @@ def test_positif_negatif(nombre):
         
 test_positif_negatif(5)
 test_positif_negatif(-8)
-test_positif_negatif(525494654646549618)
-test_positif_negatif(-55494949494984)
+test_positif_negatif(796)
+test_positif_negatif(-2472)

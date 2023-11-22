@@ -4,6 +4,6 @@ def time_to_text(minutes):
     print(f'{heures} heure(s) et {minutes} minutes')
 
 
-time_to_text(75)
-time_to_text(95)
-time_to_text(120)
+time_to_text(83)
+time_to_text(888)
+time_to_text(181000)
