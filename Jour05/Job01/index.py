@@ -1,3 +1,3 @@
-print('Bonjour entrez votre prénom:')
-x = input()
-print('Salut, ' + x)
+prenom = input("entrez votre prénom : ")
+
+print("hello", prenom, "!")
